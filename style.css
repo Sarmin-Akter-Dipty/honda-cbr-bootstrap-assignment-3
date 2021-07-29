@@ -1,3 +1,7 @@
+/* .body{
+    max-width: 100%;
+    overflow-x: hidden;
+} */
 .bg-header-color{
     background-color: #264653;
     padding-left: 156px;
@@ -11,7 +15,7 @@
     width: 168px;
     height: 44px;
 }
-.best-bike-color{
+.text-color{
     color: #E76F51;
 }
 .gray-scale{
@@ -21,3 +25,8 @@
     width: 288px;
 height: 243px;
 }
+.card{
+    width:90%; 
+    margin-left: 70px;
+}
+
