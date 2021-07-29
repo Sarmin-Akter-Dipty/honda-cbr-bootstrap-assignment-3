@@ -1,0 +1,23 @@
+.bg-header-color{
+    background-color: #264653;
+    padding-left: 156px;
+    padding-top: 155px;
+    padding-bottom: 96px;
+    padding-right: 183px;
+}
+.btn-color{
+    background-color: #E76F51;
+    border-radius: 5px;
+    width: 168px;
+    height: 44px;
+}
+.best-bike-color{
+    color: #E76F51;
+}
+.gray-scale{
+    filter: grayscale(100%);
+}
+.image-size{
+    width: 288px;
+height: 243px;
+}
