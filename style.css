@@ -1,19 +1,13 @@
-/* .body{
-    max-width: 100%;
-    overflow-x: hidden;
-} */
 .bg-header-color{
     background-color: #264653;
-    padding-left: 156px;
-    padding-top: 155px;
-    padding-bottom: 96px;
-    padding-right: 183px;
+   
 }
 .btn-color{
     background-color: #E76F51;
     border-radius: 5px;
     width: 168px;
     height: 44px;
+    
 }
 .text-color{
     color: #E76F51;
@@ -26,7 +20,22 @@
 height: 243px;
 }
 .card{
-    width:90%; 
+    width:65%; 
     margin-left: 70px;
 }
 
+@media only screen and (max-width:688px) {
+    img{
+        width:100%;
+    }
+    .bike{
+        margin-left: 10%;
+    }
+    .faq-1{
+        margin-left: 15%;
+    }
+     .faq-2{
+        margin-left: 30%;
+     }
+        
+    }
